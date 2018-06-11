@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/apache-mime4j-0.6.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/bsh-2.0b4.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/cglib-nodep-2.1_3.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/com.td.test.framework-0.0.3f.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-collections4-4.1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-io-2.4.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-lang3-3.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/curvesapi-1.03.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/httpclient-4.5.1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/httpcore-4.4.3.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/httpmime-4.5.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/java-client-4.1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/java-json.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/java-rt-jar-stubs-1.5.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/jcommander-1.48.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/log4j.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/pdfbox-app-2.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/phantomjsdriver-1.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/selenium-java-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/selenium-java-2.53.0-srcs.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/selenium-server-standalone-2.53.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/Terminal.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/Terminal1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/testng-6.9.9.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/xmlbeans-2.3.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/lib/xmlbeans-2.6.0.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-examples-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-excelant-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-ooxml-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-ooxml-schemas-3.17-beta1.jar"/>
+	<classpathentry kind="lib" path="D:/Appium Sample/poi-3.17-beta1/poi-scratchpad-3.17-beta1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
